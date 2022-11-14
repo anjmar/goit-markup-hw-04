@@ -144,11 +144,6 @@ p {
 .auth-social-link:focus {
   color: var(--accent-text-color);
 }
-
-/* .auth-social-link:hover,
-.auth-social-link:focus {
-  fill: ;
-} */
 /*-------- section hero ----------*/
 .hero {
   margin-left: auto;
@@ -367,7 +362,6 @@ img {
   color: #afb1b8;
   border: 1px solid #afb1b8;
   border-radius: 4px;
-  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
 }
 .clients-link:hover,
 .clients-link:focus {
@@ -383,10 +377,6 @@ img {
 .clients-icon:focus {
   fill: var(--accent-text-color);
 }
-
-/* 
-  box-shadow: 0px 1px 1px rgb(0 0 0 / 25%); 
-
 
 /* --------------footer-------------*/
 .footer-wrapper {
